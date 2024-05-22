@@ -1,5 +1,5 @@
-<?php
-
+<?php                             
+/* mappa la tabella movies */
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
